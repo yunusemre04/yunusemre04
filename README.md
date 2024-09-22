@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre Acar</h1>
 <h3 align="center">Software Engineering Student</h3>
-<h6>I am a 1st year student of MCBU Software Engineering. I have been interested in this department for a long time and I have had some experience in this way. I am a self-developing person and I aim to continue to do this in the future and to progress in this sector.</h6>
+<h6>I am a 2st year student of MCBU Software Engineering. I have been interested in this department for a long time and I have had some experience in this way. I am a self-developing person and I aim to continue to do this in the future and to progress in this sector.</h6>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yunus-emre-acar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus-emre-acar" height="30" width="40" /></a>
