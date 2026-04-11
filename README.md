@@ -1,14 +1,31 @@
-<h1 align="center">Hi 👋, I'm Yunus Emre Acar</h1>
-<h3 align="center">Software Engineering Student</h3>
-<h6>I am a 3th year student of MCBU Software Engineering. I have been interested in this department for a long time and I have had some experience in this way. I am a self-developing person and I aim to continue to do this in the future and to progress in this sector.</h6>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yunus-emre-acar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yunus-emre-acar" height="30" width="40" /></a>
-<a href="https://instagram.com/y_emre004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y_emre004" height="30" width="40" /></a>
-<a href="https://yunusemreacar.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://yunusemre1.lovestoblog.com/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi👋%20I'm%20Yunus%20Emre%20Acar&fontSize=45" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+> I am a **3rd-year Software Engineering student at MCBU** with a deep-rooted passion for building scalable systems. My expertise spans the full development lifecycle—from crafting seamless **Mobile and Web applications** to implementing intelligent **AI solutions**. I am a lifelong learner dedicated to staying at the forefront of the industry and evolving alongside emerging technologies.
+---
 
+### ⚡ Technical Expertise
+
+#### 🌐 Web & Mobile Development
+`ASP.NET Core MVC` • `React` • `React Native` • `Android / Kotlin`
+
+#### 🧠 AI & Machine Learning
+`Deep Learning` • `Machine Learning` • `Neural Networks`
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,react,kotlin,py,tensorflow,js,cs,mysql&perline=10&theme=dark" />
+</p>
+
+---
+
+### 🤝 Connect with me
+<p align="center">
+<a href="https://linkedin.com/in/yunus-emre-acar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
+<a href="https://instagram.com/y_emre004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45"  /></a>
+<a href="https://yunusemreacar.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Website" height="35" width="45"  /></a>
+</p>
 
