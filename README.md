@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Hi👋%20I'm%20Yunus%20Emre%20Acar&fontSize=45" width="100%"/>
 </p>
 
-> I am a **3rd-year Software Engineering student at MCBU** with a deep-rooted passion for building scalable systems. My expertise spans the full development lifecycle—from crafting seamless **Mobile and Web applications** to implementing intelligent **AI solutions**. I am a lifelong learner dedicated to staying at the forefront of the industry and evolving alongside emerging technologies.
+> I am a **3rd-year Software Engineering student at MCBU** and Passionate about the intersection of **Web & Mobile Development** and **Artificial Intelligence**. I focus on building high-performance applications using **Kotlin** , **React** and **.NET**, while exploring the potential of **Deep Learning** to solve real-world problems. Always learning, always building.
 ---
 
 ### ⚡ Technical Expertise
