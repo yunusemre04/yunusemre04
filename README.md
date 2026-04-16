@@ -23,9 +23,24 @@
 ---
 
 ### 🤝 Connect with me
-<p align="center">
-<a href="https://linkedin.com/in/yunus-emre-acar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
-<a href="https://instagram.com/y_emre004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45"  /></a>
-<a href="https://yunusemreacar.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Website" height="35" width="45"  /></a>
-</p>
-
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td style="border: none;">
+        <a href="https://linkedin.com/in/yunus-emre-acar" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+        </a>
+      </td>
+      <td style="border: none; padding-left: 10px;">
+        <a href="https://instagram.com/y_emre004" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" />
+        </a>
+      </td>
+      <td style="border: none; padding-left: 10px;">
+        <a href="https://yunusemreacar.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Website" height="35" width="45" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
